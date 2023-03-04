@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Varela Round', sans-serif;
+    line-height: 1.5;
+}
+
+img{
+    display: inline-block;
+}
+
+label{
+    display: block;
+    font-size: 14px;
+}
+
+.main-div{
+    width: 450px;
+    margin: auto;
+}
+/* div-1 */
+.div-1{
+    text-align: center;
+    padding: 40px 0px 32px;
+}
+.div-1 img{
+    width: 130px;
+    height: 40px;
+}
+.div-1 h2{
+    font-size: 29px;
+    margin: 40px 0px 0px;
+    font-weight: 600;
+}
+
+/* div-2 */
+.div-2, .div-3{
+    margin: 0px 28px 22px 28px;
+    text-align: center;
+}
+img{
+    display: inline-block;
+}
+.div-2-inside, .div-3-inside{
+    padding: 5px 24px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #405A93;
+    color: white;
+}
+.div-2-inside h3, .div-3-inside h3{
+    font-size: 16px;
+    margin-top: 5.5px;
+    font-weight: 500;
+}
+.fb-icon i{
+    font-size: 24px;
+    padding: 5px 16px 0px 0px;
+}
+
+
+/* div-3 */
+.div-3-inside{
+    background-color: #FFFFFF;
+    color: black;
+}
+.google-icon img{
+    padding: 5px 16px 0px 0px;
+    height: 24px;
+}
+
+/* span */
+.hr-span{
+    display: flex;
+    justify-content: center;
+    margin: 0px 33.75px 16px;
+}
+hr{
+    width: 160px;
+    margin: 0px 22px;
+    height: .05px;
+    margin-top: 5px;
+}
+
+/* div-4 */
+.div-4{
+    padding: 0px 0px 24px;
+}
+.div-4 input{
+    padding: 14px;
+    width: 418px;
+    border-radius: 5px;
+    border: 2px solid rgb(181, 178, 178);
+}
+.div-4 a{
+    color: #117A37;
+    font-size: 14px;
+    padding: 8px 0px 0px;
+}
+
+/* div-7 */
+.div-7{
+    font-size: 14px;
+}
